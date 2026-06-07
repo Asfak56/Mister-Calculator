@@ -1,0 +1,7 @@
+com.example.mistercalculator.app-pngs-0 C:\Project\calcapp\app\build\generated\res\pngs\debug
+com.example.mistercalculator.app-updated_navigation_xml-1 C:\Project\calcapp\app\build\generated\updated_navigation_xml\debug
+com.example.mistercalculator.app-packageDebugResources-2 C:\Project\calcapp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mistercalculator.app-packageDebugResources-3 C:\Project\calcapp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mistercalculator.app-debug-4 C:\Project\calcapp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mistercalculator.app-debug-5 C:\Project\calcapp\app\src\debug\res
+com.example.mistercalculator.app-main-6 C:\Project\calcapp\app\src\main\res
